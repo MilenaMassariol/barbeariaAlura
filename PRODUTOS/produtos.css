@@ -43,6 +43,7 @@ nav a {
     padding: 30px 20px;
     box-sizing: border-box;
     border: black 2px solid;
+    border-radius: 10px;
 }
 
 .produtos h2    {
