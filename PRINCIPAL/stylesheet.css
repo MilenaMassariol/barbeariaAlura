@@ -158,6 +158,10 @@ td, th  {
     clear: left;
 }
 
+.itens::before  {
+    content: "★ ";
+}
+
 .principal  {
     padding: 3em 0;
     background-color: #fefefe;
